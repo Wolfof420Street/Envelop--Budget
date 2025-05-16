@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EnvelopeBro</string>
+    <string name="envelopes">Envelopes</string>
+    <string name="income">Income</string>
+    <string name="transactions">Transactions</string>
+    <string name="add_envelope">Add Envelope</string>
+    <string name="envelope_name">Envelope Name</string>
+    <string name="envelope_balance">Balance</string>
+    <string name="add_income">Add Income</string>
+    <string name="income_amount">Amount</string>
+    <string name="income_description">Description</string>
+    <string name="transfer_to_envelope">Transfer to Envelope</string>
+    <string name="spend_from_envelope">Spend from Envelope</string>
+    <string name="amount">Amount</string>
+    <string name="description">Description</string>
+    <string name="select_envelope">Select Envelope</string>
+    <string name="total_income">Total Income</string>
+    <string name="available_balance">Available Balance</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="error_invalid_amount">Please enter a valid amount</string>
+    <string name="error_invalid_name">Please enter a name</string>
+    <string name="error_insufficient_funds">Insufficient funds</string>
+    <string name="ok">OK</string>
+</resources>
